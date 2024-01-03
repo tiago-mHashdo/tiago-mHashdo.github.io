@@ -112,10 +112,6 @@ html {
   transition: width 0.4s;
 }
 
-.change.link::before {
-  width: 130%;
-}
-
 .link:hover::before {
   width: 130%;
 }
