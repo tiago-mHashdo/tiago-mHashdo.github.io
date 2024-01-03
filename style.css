@@ -34,6 +34,7 @@ html {
       #000b5f);
   background-size: cover;
   flex-direction: column;
+  transition: all;
 }
 
 .section-1-heading {
